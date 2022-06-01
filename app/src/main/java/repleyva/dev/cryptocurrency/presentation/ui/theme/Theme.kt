@@ -1,4 +1,4 @@
-package repleyva.dev.cryptocurrency.ui.theme
+package repleyva.dev.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

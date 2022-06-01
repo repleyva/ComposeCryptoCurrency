@@ -1,4 +1,4 @@
-package repleyva.dev.cryptocurrency.ui.theme
+package repleyva.dev.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

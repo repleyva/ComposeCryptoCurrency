@@ -1,4 +1,4 @@
-package repleyva.dev.cryptocurrency
+package repleyva.dev.cryptocurrency.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import repleyva.dev.cryptocurrency.ui.theme.CryptoCurrencyTheme
+import repleyva.dev.cryptocurrency.presentation.ui.theme.CryptoCurrencyTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
