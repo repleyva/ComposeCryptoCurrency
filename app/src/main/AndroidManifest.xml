@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="repleyva.dev.cryptocurrency">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name=".CryptoCurrencyApplication"
         android:allowBackup="true"
